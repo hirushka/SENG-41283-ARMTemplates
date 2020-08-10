@@ -1,0 +1,51 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_phonebookbackend_name": {
+            "value": null
+        },
+        "sites_phonebookfrontend_name": {
+            "value": null
+        },
+        "sites_phonebookfunction_name": {
+            "value": null
+        },
+        "profiles_phonebookservice_name": {
+            "value": null
+        },
+        "virtualNetworks_phonebook_name": {
+            "value": null
+        },
+        "servers_phonebookserver_name": {
+            "value": null
+        },
+        "serverfarms_ASP_phonebook_9df3_name": {
+            "value": null
+        },
+        "serverfarms_ASP_phonebook_a894_name": {
+            "value": null
+        },
+        "publicIPAddresses_phonebook_name": {
+            "value": null
+        },
+        "components_phonebookfunction_name": {
+            "value": null
+        },
+        "frontdoors_phonebookfrontdoor_name": {
+            "value": null
+        },
+        "azureFirewalls_phonebookfirewall_name": {
+            "value": null
+        },
+        "storageAccounts_storageaccountphone923f_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___phonebookfunction_name": {
+            "value": null
+        }
+    }
+}
